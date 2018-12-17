@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+<b>It contains the module of audio recorder,image editor</b>
 ## Available Scripts
 
 In the project directory, you can run:
